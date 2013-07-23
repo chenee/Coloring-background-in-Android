@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Colors</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_colors">Colors</string>
+
+    <string name="headerLabel">Change Background Color</string>
+    <string name="defaultWhiteButton">Default White</string>
+    <string name="redButton">Red Background</string>
+    <string name="blueButton">Blue Background</string>
+    <string name="greenButton">Green Background</string>
+     <string name="button1">Orange!</string>
+</resources> 
